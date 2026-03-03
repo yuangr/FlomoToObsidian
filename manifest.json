@@ -1,0 +1,9 @@
+{
+	"id": "flomo-to-obsidian",
+	"name": "Flomo to Obsidian",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Sync your flomo notes to Obsidian. Supports HTML import and API auto-sync.",
+	"author": "yuan_guangrong",
+	"isDesktopOnly": true
+}
