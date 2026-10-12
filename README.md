@@ -184,3 +184,4 @@ flomo_id: flomo-api-xxxxx
 - 修复了因为重复同步导致内容重复堆叠或被覆盖的问题
 - 优化同步逻辑，按确切分钟合并统一管理，不遗漏数据
 - 移除了加载插件时默认后台同步的操作以优化性能
+`npm ci` installs locked dependencies; generated node_modules is excluded from source control.
